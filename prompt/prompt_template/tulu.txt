@@ -1,0 +1,3 @@
+{BOS}<|user|>
+{PROMPT}
+<|assistant|>
